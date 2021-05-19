@@ -2,7 +2,7 @@
 html {
   box-sizing: border-box; }
   html * {
-    box-sizing: inherit;
+    box-sizing: border-box;
     font-family: Montserrat; }
 
 body {
